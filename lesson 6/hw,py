@@ -1,0 +1,7 @@
+somevalue = input("enter anything with a value :")
+print ("oink" , somevalue)
+if int(somevalue):
+    print("it is an integar")
+else:
+    float(somevalue)
+print("this is a float")
